@@ -1,0 +1,12 @@
+{
+  "name": "mustafeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
